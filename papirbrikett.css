@@ -1,8 +1,8 @@
 body{
   padding: 15px;
-  color: blue;
-  line-height: 110%;
+  line-height: 125%;
   background-image: url("hatterkep.png");
+  color: #1F3F5F;
 }
 
 h1{
@@ -17,7 +17,7 @@ h1, h2{
 }
 
 .bevezeto{
-  margin: 10px 200px;
+  margin: 10px 600px;
   text-align: center;
   background-color: #EBEBEB;
   padding: 10px 35px;
